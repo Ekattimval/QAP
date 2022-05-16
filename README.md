@@ -1,2 +1,0 @@
-# QAP
-For QAP course
